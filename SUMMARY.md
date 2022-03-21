@@ -7,8 +7,8 @@
 
 ## Guides
 
-* [Creating your first project](guides/creating-your-first-project.md)
 * [Creating your first task](guides/creating-your-first-task.md)
+* [Creating your first project](guides/creating-your-first-project.md)
 * [Advanced permissions](guides/advanced-permissions.md)
 
 ## Fundamentals
