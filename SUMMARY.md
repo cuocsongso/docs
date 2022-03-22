@@ -1,7 +1,7 @@
 # Table of contents
 
 * [General](README.md)
-  * [\* Introduction](general/introduction.md)
+  * [Introduction](general/introduction.md)
   * [Requirement](general/requirement.md)
   * [Free Support](general/free-support.md)
 
