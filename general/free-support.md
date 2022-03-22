@@ -16,6 +16,6 @@ Locate some of the Themes Kingdom themes you purchased in your [Downloads](https
 After you have downloaded the certificate you can open it in a text editor such as Notepad and copy the **Item Purchase Code**.\
 
 
-![](https://docs.thembay.com/maia/src/img/tf-update.png)
+![](../.gitbook/assets/tf-update.png)
 
-![](https://docs.thembay.com/maia/src/img/licence2.jpg)
+![](../.gitbook/assets/licence2.jpg)
