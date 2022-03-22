@@ -5,8 +5,17 @@ All of our items come with **free support**, and we have an advanced ticket syst
 ### **How To Receive Free Support**
 
 * **Step 1** – Go to **Ticket System** [(https://tickets.thembay.com/)](https://tickets.thembay.com) and Click **Submit a ticket**.
-* **Step 2** – Provide all requires information: **Product Name**, **Purchase Code**, **your username on Themeforest.net** and **URL to your page** to verify your license.
-* **Step 3** – Provide more details about the problem, descibe, screenshot ...
-* **Step 4** – Submit ticket and wait **for** our response **(within 14-24 hours)**
+* **Step 2** – Provide all required information: **Product Name**, **Purchase Code**, **your username on Themeforest.net** and **URL to your page** to verify your license.
+* **Step 3** – Provide more details about the problem, describe, screenshot ...
+* **Step 4** – Submit a ticket and wait **for** our response **(within 14-24 hours)**
 
-### &#x20;
+### **How to find your ThemeForest Item Purchase Code**
+
+To find your license key/purchase code you need to log into your ThemeForest account and go to your [Downloads](https://themeforest.net/downloads) page.\
+Locate some of the Themes Kingdom themes you purchased in your [Downloads](https://themeforest.net/downloads) list and click on the Download and next on the **License Certificate & purchase code** link in the drop-down menu.\
+After you have downloaded the certificate you can open it in a text editor such as Notepad and copy the **Item Purchase Code**.\
+
+
+![](https://docs.thembay.com/maia/src/img/tf-update.png)
+
+![](https://docs.thembay.com/maia/src/img/licence2.jpg)
