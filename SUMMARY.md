@@ -4,26 +4,11 @@
   * [Introduction](general/introduction.md)
   * [Requirement](general/requirement.md)
   * [Free Support](general/free-support.md)
-* [Installation Instructions](installation-instructions/README.md)
-  * [Download Package](installation-instructions/download-package.md)
-  * [Extract Package](installation-instructions/extract-package.md)
 
-## Fundamentals
+## Installation Instructions
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
-
-## Use Cases
-
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [Download Package](installation-instructions/download-package.md)
+* [Extract Package](installation-instructions/extract-package.md)
+* [Installation Theme](installation-instructions/installation-theme/README.md)
+  * [Theme Installation via WordPress](installation-instructions/installation-theme/theme-installation-via-wordpress.md)
+  * [Theme Installation via FTP](installation-instructions/installation-theme/theme-installation-via-ftp.md)
