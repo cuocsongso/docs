@@ -4,12 +4,9 @@
   * [Introduction](general/introduction.md)
   * [Requirement](general/requirement.md)
   * [Free Support](general/free-support.md)
-
-## Guides
-
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Installation Instructions](installation-instructions/README.md)
+  * [Download Package](installation-instructions/download-package.md)
+  * [Extract Package](installation-instructions/extract-package.md)
 
 ## Fundamentals
 
