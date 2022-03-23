@@ -18,3 +18,5 @@
 ## Import Sample Data
 
 * [Requirement](import-sample-data/requirement.md)
+* [Import All Sample Data - for a new website](import-sample-data/import-all-sample-data-for-a-new-website.md)
+* [Import All Sample Data and import the configure for the website available.](import-sample-data/import-all-sample-data-and-import-the-configure-for-the-website-available..md)

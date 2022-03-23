@@ -1,7 +1,7 @@
 # Recommended Plugins
 
 {% hint style="info" %}
-In order for the website to function well, similar to our demo functions, I recommend you install the following plugins. Please note, you do not need to install them if you do not need them.
+**In order for the website to function well, similar to our demo functions, I recommend you install the following plugins. Please note, you do not need to install them if you do not need them.**
 {% endhint %}
 
 ### **Here are the plugins that we recommend:**

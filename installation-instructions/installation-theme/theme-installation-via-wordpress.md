@@ -1,7 +1,7 @@
 # Theme Installation via WordPress
 
 {% hint style="info" %}
-Please, follow the steps below to install Maia Theme (Make sure you had extracted files).
+**Please, follow the steps below to install Maia Theme (Make sure you had extracted files).**
 {% endhint %}
 
 * Step 1 – Login to your **WordPress Dashboard**.

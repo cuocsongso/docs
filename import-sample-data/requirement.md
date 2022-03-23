@@ -1,7 +1,7 @@
 # Requirement
 
 {% hint style="info" %}
-We are very happy to provide customers with a new function to import data more quickly. It is a "One-click import"
+**We are very happy to provide customers with a new function to import data more quickly. It is a "One-click import"**
 {% endhint %}
 
 With "One click import", customers do not import step by step data as import usual. It imports all data like Content, Widget, Revolution slider, Menu, Customize...
