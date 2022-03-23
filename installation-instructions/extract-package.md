@@ -1,7 +1,7 @@
 # Extract Package
 
 {% hint style="warning" %}
-After the download is completed, you need to unzip the package and select the way you want to install the theme.
+**After the download is completed, you need to unzip the package and select the way you want to install the theme.**
 {% endhint %}
 
 ![](../.gitbook/assets/extract.png)

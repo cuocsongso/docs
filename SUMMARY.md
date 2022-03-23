@@ -13,3 +13,8 @@
   * [Theme Installation via WordPress](installation-instructions/installation-theme/theme-installation-via-wordpress.md)
   * [Theme Installation via FTP](installation-instructions/installation-theme/theme-installation-via-ftp.md)
 * [Installation Plugins](installation-instructions/installation-plugins.md)
+* [Recommended Plugins](installation-instructions/recommended-plugins.md)
+
+## Import Sample Data
+
+* [Requirement](import-sample-data/requirement.md)
