@@ -6,7 +6,7 @@
 
 ![](../.gitbook/assets/extract.png)
 
-#### Once the download is complete, unzip the file and you would see the following packages:
+### Once the download is complete, unzip the file and you would see the following packages:
 
 * [x] **Documentation** - our detailed documentation for the theme
 * [x] **Licensing** - the theme license
