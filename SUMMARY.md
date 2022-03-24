@@ -17,5 +17,7 @@
 ## Import Sample Data
 
 * [Requirement](import-sample-data/requirement.md)
-* [For a new website](import-sample-data/for-a-new-website.md)
-* [For the website available.](import-sample-data/for-the-website-available..md)
+* [For a new website](import-sample-data/import-all-sample-data-for-a-new-website.md)
+* [For the website available.](import-sample-data/import-all-sample-data-and-import-the-configure-for-the-website-available..md)
+* [Reset Data](import-sample-data/reset-data.md)
+* [Error or Problem](import-sample-data/error-or-problem.md)

@@ -4,16 +4,16 @@ description: Import All Sample Data - for a new website
 
 # For a new website
 
-* [x] Step 1 - Login to your **WordPress Dashboard**.
-* [x] Step 2 - Go to **Appearance** > **Theme Setup** > **Click to Start**
+* [x] <mark style="color:purple;">**Step 1**</mark> - Login to your **WordPress Dashboard**.
+* [x] <mark style="color:purple;">**Step 2**</mark> - Go to **Appearance** > **Theme Setup** > **Click to Start**
 
 ![](<../.gitbook/assets/import-setup-1 (1).png>)
 
-* [x] Step 3 - **Install Child Theme**
+* [x] <mark style="color:purple;">**Step 3**</mark> - **Install Child Theme**
 
 ![](../.gitbook/assets/import-setup-2.png)
 
-* [x] Step 4 - **Import Content**: Select the **Demo you want**, then click on **Import**
+* [x] <mark style="color:purple;">**Step 4**</mark> - **Import Content**: Select the **Demo you want**, then click on **Import**
 
 ![](../.gitbook/assets/import-setup-6.png)
 
@@ -25,7 +25,7 @@ description: Import All Sample Data - for a new website
 
 ![](../.gitbook/assets/import-setup-5.png)
 
-* [x] Step 5 - Save information on **** all products (**fix errors not showing Categories, products**)
+* [x] <mark style="color:purple;">**Step 5**</mark> - Save information on **** all products (**fix errors not showing Categories, products**)
 
 <!---->
 
@@ -41,11 +41,11 @@ description: Import All Sample Data - for a new website
 
 ![](../.gitbook/assets/import-data-fix3.png)
 
-* [x] Step 7 - Elementor Settings: Enable Elementor for Thembay Blocks. Disable Default Colors, Disable Default Fonts.
+* [x] <mark style="color:purple;">**Step 7**</mark> - Elementor Settings: Enable Elementor for Thembay Blocks. Disable Default Colors, Disable Default Fonts.
 
 ![](../.gitbook/assets/demo-content-2-2.png)
 
-* [x] Step 8 - Replace URL: Enter your old and new URLs for your WordPress installation, to update all Elementor data.
+* [x] <mark style="color:purple;">**Step 8**</mark> - Replace URL: Enter your old and new URLs for your WordPress installation, to update all Elementor data.
 
 ![](../.gitbook/assets/demo-content-e-replace-1.png)
 
@@ -54,7 +54,7 @@ description: Import All Sample Data - for a new website
 
 ![](../.gitbook/assets/demo-content-e-replace-2.png)
 
-* [x] Step 9 - Choose Shop Page: Go to **WooCommerce** > **Settings** > **Products** > **General** > **Shop Page**
+* [x] <mark style="color:purple;">**Step 9**</mark> - Choose Shop Page: Go to **WooCommerce** > **Settings** > **Products** > **General** > **Shop Page**
 
 ![](../.gitbook/assets/import-data13.png)
 
@@ -64,11 +64,11 @@ When you install the WooCommerce plugin, your website will automatically create 
 
 {% embed url="https://www.youtube.com/watch?feature=emb_title&time_continue=1902&v=qpYr5CSXfBQ" %}
 
-* [x] Step 10 - Choose Cart and Checkout Page: Go to **WooCommerce** > **Settings** > **Advanced**
+* [x] <mark style="color:purple;">**Step 10**</mark> - Choose Cart and Checkout Page: Go to **WooCommerce** > **Settings** > **Advanced**
 
 ![](../.gitbook/assets/import-data15.png)
 
-* [x] Step 11 - Configure Mega Menu
+* [x] <mark style="color:purple;">**Step 11**</mark> - Configure Mega Menu
 
 ![](../.gitbook/assets/import-data-menu-1.png)
 
@@ -80,7 +80,7 @@ When you install the WooCommerce plugin, your website will automatically create 
 
 {% embed url="https://www.youtube.com/watch?v=Tg_4gT9quXM" %}
 
-* [x] Step 12 - Configure the Product Attributes
+* [x] <mark style="color:purple;">**Step 12**</mark> - Configure the Product Attributes
 
 ![](../.gitbook/assets/import-data-woo-attribute.png)
 
