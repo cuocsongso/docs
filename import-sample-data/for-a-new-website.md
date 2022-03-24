@@ -1,4 +1,8 @@
-# Import All Sample Data - for a new website
+---
+description: Import All Sample Data - for a new website
+---
+
+# For a new website
 
 * [x] Step 1 - Login to your **WordPress Dashboard**.
 * [x] Step 2 - Go to **Appearance** > **Theme Setup** > **Click to Start**

@@ -1,4 +1,8 @@
-# Import All Sample Data and import the configure for the website available.
+---
+description: Import All Sample Data and import the configure for the website available.
+---
+
+# For the website available.
 
 {% hint style="warning" %}
 If you have a website with data available, follow these steps to use the "Maia" theme for your website.
