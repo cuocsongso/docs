@@ -60,3 +60,9 @@ Upload Mobile Logo, Hidden Footer Mobile, and config number of products in a row
 ![](../.gitbook/assets/options-mobile-cart-2.png)
 {% endtab %}
 {% endtabs %}
+
+{% hint style="info" %}
+**Watch the video tutorial here:**
+{% endhint %}
+
+{% embed url="https://www.youtube.com/watch?v=MdvF-DlZAcM" %}
