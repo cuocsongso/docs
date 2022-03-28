@@ -18,16 +18,16 @@
 
 ![](../.gitbook/assets/use-footer-mobile3.png)
 
-### **3. Create a new menu with "Custom Images"**
+### <mark style="color:purple;">**3. Create a new menu with "Custom Images"**</mark>
 
 ![](../.gitbook/assets/use-footer-mobile4.png)
 
-### **4. Feel free to drag and drop the menu position**
+### <mark style="color:purple;">**4. Feel free to drag and drop the menu position**</mark>
 
 ![](../.gitbook/assets/use-footer-mobile5.png)
 
 {% hint style="info" %}
-**Watch the video tutorial here:**
+### <mark style="color:purple;">**Watch the video tutorial here:**</mark>
 {% endhint %}
 
 {% embed url="https://www.youtube.com/watch?v=d7b6dIzV-YI" %}
