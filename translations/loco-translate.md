@@ -52,7 +52,7 @@ It also provides localization tools for developers, such as extracting strings a
 
 ![](../.gitbook/assets/translations-loco-4-1.png)
 
-### **5. Automatic Translate: Install the plugin "Automatic Translate Addon For Loco Translate"**
+### <mark style="color:purple;">**5. Automatic Translate: Install the plugin "Automatic Translate Addon For Loco Translate"**</mark>
 
 ![](../.gitbook/assets/translations-loco-5-1.png)
 
@@ -70,6 +70,14 @@ It also provides localization tools for developers, such as extracting strings a
 
 ![](../.gitbook/assets/translations-loco-5-8.png)
 
-### **6. Some text need edit in Theme Options**
+### <mark style="color:purple;">**6. Some text need edit in Theme Options**</mark>
 
-\
+![](../.gitbook/assets/translations-loco-6-1.png)
+
+![](../.gitbook/assets/translations-loco-6-2.png)
+
+{% hint style="info" %}
+**Watch the video tutorial here:**
+{% endhint %}
+
+{% embed url="https://www.youtube.com/watch?v=1bm5kRKM26s" %}

@@ -89,3 +89,10 @@
 ## 🌐 Translations
 
 * [Loco Translate](translations/loco-translate.md)
+* [WPML Plugin](translations/wpml-plugin.md)
+* [Weglot Translate](translations/weglot-translate.md)
+
+***
+
+* [🚀 Optimization](optimization.md)
+* [Update Maia Theme](update-maia-theme.md)
