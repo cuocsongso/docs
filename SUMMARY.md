@@ -51,3 +51,20 @@
 * [Socials Share](theme-options/socials-share.md)
 * [Performance](theme-options/performance.md)
 * [Custom CSS/JS](theme-options/custom-css-js.md)
+
+## 🛒 WooCommerce Setting
+
+* [Basic configuration](woocommerce-setting/basic-configuration.md)
+* [Show Countdown Timer](woocommerce-setting/show-countdown-timer.md)
+* [Show Video Product](woocommerce-setting/show-video-product.md)
+* [Variable Products](woocommerce-setting/variable-products.md)
+* [Recently Viewed](woocommerce-setting/recently-viewed.md)
+* [Photo Reviews](woocommerce-setting/photo-reviews.md)
+* [YITH WooCommerce Brands](woocommerce-setting/yith-woocommerce-brands.md)
+* [Questions and answers](woocommerce-setting/questions-and-answers.md)
+* [Notification](woocommerce-setting/notification.md)
+* [Frequently Bought Together](woocommerce-setting/frequently-bought-together.md)
+* [YITH WooCommerce Wishlist](woocommerce-setting/yith-woocommerce-wishlist.md)
+* [YITH WooCommerce Compare](woocommerce-setting/yith-woocommerce-compare.md)
+* [Custom fields](woocommerce-setting/custom-fields.md)
+* [Enable Buy Now](woocommerce-setting/enable-buy-now.md)
