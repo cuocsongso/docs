@@ -27,7 +27,7 @@ Configure properties for Mini cart
 
 * **Enable Free Shipping on Cart and Mini-Cart**
 
-![](../.gitbook/assets/options-woocommerce-cart-1.png)
+![](<../.gitbook/assets/options-woocommerce-cart-1 (1).png>)
 
 * **Enable Quantity on Mini-Cart**: Help buyers increase or decrease the quantity right on the mini-cart
 

@@ -68,3 +68,8 @@
 * [YITH WooCommerce Compare](woocommerce-setting/yith-woocommerce-compare.md)
 * [Custom fields](woocommerce-setting/custom-fields.md)
 * [Enable Buy Now](woocommerce-setting/enable-buy-now.md)
+* [Enable Total Sales](woocommerce-setting/enable-total-sales.md)
+* [Catalog Mode](woocommerce-setting/catalog-mode.md)
+* [Custom Tab Product](woocommerce-setting/custom-tab-product.md)
+* [Quantity on Mini-Cart](woocommerce-setting/quantity-on-mini-cart.md)
+* [Free Shipping on Mini-Cart](woocommerce-setting/free-shipping-on-mini-cart.md)
