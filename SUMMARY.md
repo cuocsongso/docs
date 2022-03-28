@@ -81,3 +81,11 @@
 * [Elementor Settings](elementor-setting/elementor-settings.md)
 * [Set Up Home Page](elementor-setting/set-up-home-page.md)
 * [Create a Footer](elementor-setting/create-a-footer.md)
+
+***
+
+* [⚙ Child Theme](child-theme.md)
+
+## 🌐 Translations
+
+* [Loco Translate](translations/loco-translate.md)
