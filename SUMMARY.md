@@ -37,3 +37,9 @@
 * [Contact Page](theme-configuration/contact-page.md)
 * [MailChimp](theme-configuration/mailchimp.md)
 * [Footer Mobile](theme-configuration/footer-mobile.md)
+
+## ⚙ Theme Options
+
+* [General](theme-options/general.md)
+* [Header](theme-options/header.md)
+* [Footer](theme-options/footer.md)
