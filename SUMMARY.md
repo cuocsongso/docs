@@ -28,4 +28,6 @@
   * [Theme Options](theme-configuration/set-up-logo/theme-options.md)
   * [Header Builder](theme-configuration/set-up-logo/header-builder.md)
 * [Set Up Menu](theme-configuration/set-up-menu.md)
-* [Page 1](theme-configuration/page-1.md)
+* [Set Up Home Page](theme-configuration/set-up-home-page.md)
+* [Header Builder Elementor](theme-configuration/header-builder-elementor.md)
+* [Set Up Footer](theme-configuration/set-up-footer.md)

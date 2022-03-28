@@ -70,9 +70,9 @@ Choose **Sample Data** > **pages** > **template-home-xxx.json**
 
 Choose **Thembay Blocks** > **Add New** > **Type of Template = Footer**
 
-![](../.gitbook/assets/import-data-footer-1.png)
+![](<../.gitbook/assets/import-data-footer-1 (1).png>)
 
-![](../.gitbook/assets/import-data-footer-2.png)
+![](<../.gitbook/assets/import-data-footer-2 (1).png>)
 
 ![](../.gitbook/assets/import-data-step8-2.png)
 
@@ -84,7 +84,7 @@ Choose **Sample Data** > **footer** > **template-footer-xxx.json**
 
 ![](../.gitbook/assets/import-data-step8-5.png)
 
-![](../.gitbook/assets/import-data-step8-6.png)
+![](<../.gitbook/assets/import-data-step8-6 (1).png>)
 
 **Select Footer default in Theme Options**
 
@@ -120,7 +120,7 @@ Choose **Sample Data** > **header** > **template-header-xxx.json**
 
 ![](../.gitbook/assets/import-data-step10-5.png)
 
-![](../.gitbook/assets/import-data-step10-6.png)
+![](<../.gitbook/assets/import-data-step10-6 (1).png>)
 
 Choose **Main Menu**
 
@@ -128,7 +128,7 @@ Choose **Main Menu**
 
 **Select Header default in Theme Options**
 
-![](../.gitbook/assets/import-data-step10-8.png)
+![](<../.gitbook/assets/import-data-step10-8 (1).png>)
 
 * [x] <mark style="color:purple;">**Step 13**</mark> - Choose Shop Page: Go to **WooCommerce** > **Settings** > **Products** > **General** > **Shop Page**
 
