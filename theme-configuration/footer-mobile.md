@@ -14,4 +14,20 @@
    * **Cart page**: `{{cart}}`
    * **Wishlist page**: `{{wishlist}}`
 
-### **2. Create a new menu with "Custom Links"**
+### <mark style="color:purple;">**2. Create a new menu with "Custom Links"**</mark>
+
+![](../.gitbook/assets/use-footer-mobile3.png)
+
+### **3. Create a new menu with "Custom Images"**
+
+![](../.gitbook/assets/use-footer-mobile4.png)
+
+### **4. Feel free to drag and drop the menu position**
+
+![](../.gitbook/assets/use-footer-mobile5.png)
+
+{% hint style="info" %}
+**Watch the video tutorial here:**
+{% endhint %}
+
+{% embed url="https://www.youtube.com/watch?v=d7b6dIzV-YI" %}
