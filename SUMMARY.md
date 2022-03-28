@@ -43,3 +43,4 @@
 * [General](theme-options/general.md)
 * [Header](theme-options/header.md)
 * [Footer](theme-options/footer.md)
+* [Mobile](theme-options/mobile.md)

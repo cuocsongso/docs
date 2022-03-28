@@ -8,5 +8,5 @@ Select **Footer Layout Type** and manage **Back to Top** button.
 * **Enable "Back to Top" Button**: Enable or disable the **** "Back to top" button.
 
 {% hint style="info" %}
-[See more instructions about "Footer Builder" here](../theme-configuration/set-up-footer.md)
+[**See more instructions about "Footer Builder" here**](../theme-configuration/set-up-footer.md)****
 {% endhint %}
