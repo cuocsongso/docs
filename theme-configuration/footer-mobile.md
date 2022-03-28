@@ -27,7 +27,7 @@
 ![](../.gitbook/assets/use-footer-mobile5.png)
 
 {% hint style="info" %}
-### <mark style="color:purple;">**Watch the video tutorial here:**</mark>
+**Watch the video tutorial here:**
 {% endhint %}
 
 {% embed url="https://www.youtube.com/watch?v=d7b6dIzV-YI" %}
