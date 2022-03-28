@@ -95,4 +95,4 @@
 ***
 
 * [🚀 Optimization](optimization.md)
-* [Update Maia Theme](update-maia-theme.md)
+* [⏰ Update Maia Theme](update-maia-theme.md)
