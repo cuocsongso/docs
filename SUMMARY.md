@@ -50,3 +50,4 @@
 * [Page 404](theme-options/page-404.md)
 * [Socials Share](theme-options/socials-share.md)
 * [Performance](theme-options/performance.md)
+* [Custom CSS/JS](theme-options/custom-css-js.md)
