@@ -26,3 +26,27 @@ The Screen Options allow you to choose which items you can use to add to a menu.
 ![](../.gitbook/assets/use-menu2.jpg)
 
 ![](../.gitbook/assets/use-menu3.jpg)
+
+### <mark style="color:purple;">**3. Assigning a Menu to a Location**</mark>
+
+Once you've created a menu and filled it with items, it's time to assign it to one of the theme pre-defined locations.
+
+\- Go to **Appearance > Menus** and click **Manage Locations.**
+
+The menu is assigned after import data by "One click import".
+
+![](../.gitbook/assets/use-menu4.png)
+
+### <mark style="color:purple;">**4. Configure Mega Menu**</mark>
+
+![](../.gitbook/assets/import-data-menu-1.png)
+
+![](../.gitbook/assets/import-data-menu-2.png)
+
+![](../.gitbook/assets/import-data-menu-3.png)
+
+{% hint style="info" %}
+Please follow this video:
+{% endhint %}
+
+{% embed url="https://www.youtube.com/watch?v=Tg_4gT9quXM" %}
