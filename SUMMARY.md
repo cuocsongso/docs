@@ -96,3 +96,8 @@
 
 * [🚀 Optimization](optimization.md)
 * [⏰ Update Maia Theme](update-maia-theme.md)
+* [💡 FAQs](faqs/README.md)
+  * [Can't edit the product](faqs/cant-edit-the-product.md)
+  * [Product's image size?](faqs/products-image-size.md)
+  * [Enable the Registration Form](faqs/enable-the-registration-form.md)
+* [📝 Changelog](changelog.md)
