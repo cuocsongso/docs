@@ -101,3 +101,4 @@
   * [Product's image size?](faqs/products-image-size.md)
   * [Enable the Registration Form](faqs/enable-the-registration-form.md)
 * [📝 Changelog](changelog.md)
+* [📺 Youtube Tutorial](https://www.youtube.com/c/thembay)
