@@ -11,9 +11,5 @@
 **- Header Located On Slider**: Only home page.&#x20;
 
 {% hint style="info" %}
-####
-{% endhint %}
-
-{% hint style="info" %}
 #### [See more instructions about "Header Builder" here](../theme-configuration/header-builder-elementor.md)
 {% endhint %}
