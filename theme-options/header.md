@@ -1,6 +1,6 @@
 # Header
 
-**Select Header Layout and Upload Logo**
+### **Select Header Layout and Upload Logo**
 
 ![](../.gitbook/assets/upload-logo-elementor-1.png)
 
