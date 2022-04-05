@@ -1,6 +1,6 @@
 # Header Builder
 
-**1Upload logo in Elementor Header Builder (Select Header Layout = Header Builder)**
+**Upload logo in Elementor Header Builder (Select Header Layout = Header Builder)**
 
 * **Step 1** - Select Header Layout = Header Builder
 
