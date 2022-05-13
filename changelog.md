@@ -4,6 +4,14 @@ description: Details of the updates
 
 # 📝 Changelog
 
+### **V1.0.3 (**May 14**, 2022)**
+
+```
+- [ADD NEW] Support search product sku
+- [ADD NEW] Add new options "Search Query" in Theme Options/WooCommerce Theme/Search Products
+- [ADD NEW] Add new options "Show SKU on AJAX results" in Theme Options/WooCommerce Theme/Search Products
+```
+
 ### **V1.0.2 (**April 13**, 2022)**
 
 ```
