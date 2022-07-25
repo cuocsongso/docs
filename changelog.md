@@ -4,6 +4,14 @@ description: Details of the updates
 
 # 📝 Changelog
 
+### **V1.0.4 (**July 25**, 2022)**
+
+```
+- Compatible with Wordpres 6.0
+- Compatible with WooCommerce 6.7.x
+- Compatible with elementor 3.6.x
+```
+
 ### **V1.0.3 (**May 14**, 2022)**
 
 ```
