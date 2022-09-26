@@ -14,7 +14,7 @@
 
 ### **It features deep integration with WooCommerce core plus several of the most popular plugins:**
 
-* [Redux Framework](https://reduxframework.com)
+* [Redux Framework](https://reduxframework.com/)
 * [Elementor Page Builder](https://wordpress.org/plugins/elementor/)
 * [Slider Revolution Responsive](http://bit.ly/2QpQrJY)
 * [WOOF - WooCommerce Products Filter](http://bit.ly/2Ql1xA9)

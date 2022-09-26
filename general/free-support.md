@@ -4,7 +4,7 @@ All of our items come with **free support**, and we have an advanced ticket syst
 
 ### **How To Receive Free Support**
 
-* **Step 1** – Go to **Ticket System** [(https://tickets.thembay.com/)](https://tickets.thembay.com) and Click **Submit a ticket**.
+* **Step 1** – Go to **Ticket System** [(https://tickets.thembay.com/)](https://tickets.thembay.com/) and Click **Submit a ticket**.
 * **Step 2** – Provide all required information: **Product Name**, **Purchase Code**, **your username on Themeforest.net** and **URL to your page** to verify your license.
 * **Step 3** – Provide more details about the problem, describe, screenshot ...
 * **Step 4** – Submit a ticket and wait **for** our response **(within 14-24 hours)**

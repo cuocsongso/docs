@@ -4,6 +4,16 @@ description: Details of the updates
 
 # 📝 Changelog
 
+### **V1.0.5 (**September 26**, 2022)**
+
+```
+- Compatible with WooCommerce 6.9.x
+- Compatible with Elementor 3.7.x
+- [ADD NEW] Add new options "TB Add-Ons Elementor" in Theme Options
+- [ADD NEW] Add new 'locate_template' on folder 'maia/elementor_templates'  (Can override file on folder 'elementor_templates' in child theme)
+- [FIX] Fix missing short description on the mobile Variable Product
+```
+
 ### **V1.0.4 (**July 25**, 2022)**
 
 ```
