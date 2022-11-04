@@ -4,6 +4,17 @@ description: Details of the updates
 
 # 📝 Changelog
 
+### **V1.0.6 (**November 04**, 2022)**
+
+```
+- Compatible with WordPress 6.1
+- Compatible with WooCommerce 7.0.x
+- Compatible with Elementor 3.8.x
+- [FIX] Fix Out Of Date the file "maia\woocommerce\cart\cart.php"
+- [FIX] Fix Out Of Date the file "maia\woocommerce\global\form-login.php"
+- [FIX] Fix Out Of Date the file "maia\woocommerce\single-product\add-to-cart\grouped.php"
+```
+
 ### **V1.0.5 (**September 26**, 2022)**
 
 ```
