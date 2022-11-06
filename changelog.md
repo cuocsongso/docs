@@ -4,6 +4,12 @@ description: Details of the updates
 
 # 📝 Changelog
 
+### **V1.0.7 (**November 07**, 2022)**
+
+```
+- [FIX] Fix bug missing file js 'countdowntimer'
+```
+
 ### **V1.0.6 (**November 04**, 2022)**
 
 ```
