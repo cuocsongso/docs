@@ -8,7 +8,7 @@ description: >-
 
 {% hint style="info" %}
 Each Maia's skin uses separate data, so if you want to switch between skins you need to reset the data, then import the data again.\
-Use this plugin to reset the WordPress database: [https://wordpress.org/plugins/wp-reset/](https://wordpress.org/plugins/wordpress-reset/)
+Use this plugin to reset the WordPress database: [https://wordpress.org/plugins/wp-reset/](https://wordpress.org/plugins/wp-reset/)
 {% endhint %}
 
 **Follow these steps:**
