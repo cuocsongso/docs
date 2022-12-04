@@ -102,4 +102,4 @@
 * [📝 Changelog](changelog.md)
 * [📺 Youtube Tutorial](https://www.youtube.com/c/thembay)
 * [🌐 Maia Demos](https://preview.thembaydev.com/maia/)
-* [🛒 Buy Now only $29](https://1.envato.market/maia-tb)
+* [🛒 Buy Now only $39](https://1.envato.market/maia-tb)
