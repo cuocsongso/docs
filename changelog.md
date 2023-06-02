@@ -4,6 +4,31 @@ description: Details of the updates
 
 # 📝 Changelog
 
+### **V1.0.10 (**June 01**, 2023)**
+
+```
+- Compatible with WordPress 6.2.x
+- Compatible with WooCommerce 7.7.x
+- Compatible with Elementor 3.13.x
+- [FIX] Fix the error of duplicating the h1 tag on some pages
+- [FIX] Fix bug Shop page config header, footer doesn't work.
+```
+
+### **V1.0.9 (**March 17**, 2023)**
+
+```
+- Compatible with PHP 8.1
+- Compatible with WooCommerce 7.5.x
+```
+
+### **V1.0.8 (**February 16**, 2023)**
+
+```
+- Compatible with WooCommerce 7.4.x
+- Compatible with Elementor 3.11.x
+- [FIX] Fix Out Of Date the file "maia\woocommerce\cart\cart.php" 
+```
+
 ### **V1.0.7 (**November 07**, 2022)**
 
 ```
