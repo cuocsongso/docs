@@ -4,6 +4,25 @@ description: Details of the updates
 
 # 📝 Changelog
 
+### **V1.0.12 (**July 19**, 2023)**
+
+```
+- Compatible with Elementor 3.14.x
+- Compatible with WooCommerce 7.9.x
+- [FIX] Fix Out Of Date the file "maia\woocommerce\cart\cart.php" 
+- [FIX] Fix Out Of Date the file "maia\woocommerce\cart\mini-cart.php" 
+- [FIX] Fix the error don't translating the text 'Buy Now'
+```
+
+### **V1.0.11 (**June 16**, 2023)**
+
+```
+- Compatible with WooCommerce 7.8.x
+- [FIX] Fix Out Of Date the file "maia\woocommerce\cart\cart.php" 
+- [FIX] Fix Out Of Date the file "maia\woocommerce\cart\mini-cart.php" 
+- [FIX] Fix Out Of Date the file "maia\woocommerce\single-product\product-image.php"
+```
+
 ### **V1.0.10 (**June 01**, 2023)**
 
 ```
