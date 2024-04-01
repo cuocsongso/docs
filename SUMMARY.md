@@ -22,7 +22,7 @@
 * [Reset Data](import-sample-data/reset-data.md)
 * [Error or Problem](import-sample-data/error-or-problem.md)
 
-## ⚙ Theme Configuration
+## ⚙️ Theme Configuration
 
 * [Set Up Logo](theme-configuration/set-up-logo/README.md)
   * [Theme Options](theme-configuration/set-up-logo/theme-options.md)
@@ -38,7 +38,7 @@
 * [MailChimp](theme-configuration/mailchimp.md)
 * [Footer Mobile](theme-configuration/footer-mobile.md)
 
-## ⚙ Theme Options
+## ⚙️ Theme Options
 
 * [General](theme-options/general.md)
 * [Header](theme-options/header.md)
@@ -73,7 +73,7 @@
 * [Quantity on Mini-Cart](woocommerce-setting/quantity-on-mini-cart.md)
 * [Free Shipping on Mini-Cart](woocommerce-setting/free-shipping-on-mini-cart.md)
 
-## ⚙ Elementor Setting‎
+## ⚙️ Elementor Setting‎
 
 * [Header Builder](elementor-setting/header-builder.md)
 * [Maia Elements](elementor-setting/maia-elements.md)
@@ -83,7 +83,7 @@
 
 ***
 
-* [⚙ Child Theme](child-theme.md)
+* [⚙️ Child Theme](child-theme.md)
 
 ## 🌐 Translations
 
@@ -102,4 +102,3 @@
 * [📝 Changelog](changelog.md)
 * [📺 Youtube Tutorial](https://www.youtube.com/c/thembay)
 * [🌐 Maia Demos](https://preview.thembaydev.com/maia/)
-* [🛒 Buy Now only $39](https://1.envato.market/maia-tb)
