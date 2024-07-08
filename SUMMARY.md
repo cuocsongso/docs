@@ -37,6 +37,8 @@
 * [Contact Page](theme-configuration/contact-page.md)
 * [MailChimp](theme-configuration/mailchimp.md)
 * [Footer Mobile](theme-configuration/footer-mobile.md)
+* [Header and Footer Elementor Pro](theme-configuration/header-and-footer-elementor-pro.md)
+* [Header Mobile Elementor Pro](theme-configuration/header-mobile-elementor-pro.md)
 
 ## ⚙️ Theme Options
 
