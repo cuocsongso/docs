@@ -4,6 +4,13 @@ description: Details of the updates
 
 # 📝 Changelog
 
+### **V1.1.4 (**July 12**, 2024)**
+
+```
+- Compatible with Woocommerce 9.1.x
+- [FIX] Fix Out Of Date the file "maia\woocommerce\single-product\product-image.php" 
+```
+
 ### **V1.0.12 (**July 19**, 2023)**
 
 ```
