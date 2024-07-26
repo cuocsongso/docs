@@ -103,4 +103,4 @@
   * [Enable the Registration Form](faqs/enable-the-registration-form.md)
 * [📝 Changelog](changelog.md)
 * [📺 Youtube Tutorial](https://www.youtube.com/c/thembay)
-* [🌐 Maia Demos](https://preview.thembaydev.com/maia/)
+* [🌐 Maia Demos](https://preview.thembay.com/maia/)
