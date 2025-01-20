@@ -1,4 +1,4 @@
-# ⚙ Child Theme
+# ⚙️ Child Theme
 
 ### <mark style="color:purple;">Use Child Themes to Modify Theme</mark>
 
@@ -20,12 +20,12 @@ There are a few reasons why you would want to use a child theme:
 
 <mark style="color:orange;">**How to use a Child Theme?**</mark>
 
-In this theme, we offer you a sample Child Theme (**maia-child.zip**). You install it like a <mark style="color:orange;">****</mark> normal theme.
+In this theme, we offer you a sample Child Theme (**maia-child.zip**). You install it like a normal theme.
 
 <mark style="color:orange;">**But you can create your own Child Theme form by following the instructions below**</mark>
 
-<mark style="color:orange;">****</mark>
+
 
 {% hint style="info" %}
-[Link instructions How to Create a Child Theme](https://codex.wordpress.org/Child\_Themes#How\_to\_Create\_a\_Child\_Theme)
+[Link instructions How to Create a Child Theme](https://codex.wordpress.org/Child_Themes#How_to_Create_a_Child_Theme)
 {% endhint %}

@@ -4,14 +4,14 @@ description: Details of the updates
 
 # 📝 Changelog
 
-### **V1.1.4 (**July 12**, 2024)**
+### **V1.1.4 (**&#x4A;uly 1&#x32;**, 2024)**
 
 ```
 - Compatible with Woocommerce 9.1.x
 - [FIX] Fix Out Of Date the file "maia\woocommerce\single-product\product-image.php" 
 ```
 
-### **V1.0.12 (**July 19**, 2023)**
+### **V1.0.12 (**&#x4A;uly 1&#x39;**, 2023)**
 
 ```
 - Compatible with Elementor 3.14.x
@@ -21,7 +21,7 @@ description: Details of the updates
 - [FIX] Fix the error don't translating the text 'Buy Now'
 ```
 
-### **V1.0.11 (**June 16**, 2023)**
+### **V1.0.11 (**&#x4A;une 1&#x36;**, 2023)**
 
 ```
 - Compatible with WooCommerce 7.8.x
@@ -30,7 +30,7 @@ description: Details of the updates
 - [FIX] Fix Out Of Date the file "maia\woocommerce\single-product\product-image.php"
 ```
 
-### **V1.0.10 (**June 01**, 2023)**
+### **V1.0.10 (**&#x4A;une 0&#x31;**, 2023)**
 
 ```
 - Compatible with WordPress 6.2.x
@@ -40,14 +40,14 @@ description: Details of the updates
 - [FIX] Fix bug Shop page config header, footer doesn't work.
 ```
 
-### **V1.0.9 (**March 17**, 2023)**
+### **V1.0.9 (**&#x4D;arch 1&#x37;**, 2023)**
 
 ```
 - Compatible with PHP 8.1
 - Compatible with WooCommerce 7.5.x
 ```
 
-### **V1.0.8 (**February 16**, 2023)**
+### **V1.0.8 (**&#x46;ebruary 1&#x36;**, 2023)**
 
 ```
 - Compatible with WooCommerce 7.4.x
@@ -55,13 +55,13 @@ description: Details of the updates
 - [FIX] Fix Out Of Date the file "maia\woocommerce\cart\cart.php" 
 ```
 
-### **V1.0.7 (**November 07**, 2022)**
+### **V1.0.7 (**&#x4E;ovember 0&#x37;**, 2022)**
 
 ```
 - [FIX] Fix bug missing file js 'countdowntimer'
 ```
 
-### **V1.0.6 (**November 04**, 2022)**
+### **V1.0.6 (**&#x4E;ovember 0&#x34;**, 2022)**
 
 ```
 - Compatible with WordPress 6.1
@@ -72,7 +72,7 @@ description: Details of the updates
 - [FIX] Fix Out Of Date the file "maia\woocommerce\single-product\add-to-cart\grouped.php"
 ```
 
-### **V1.0.5 (**September 26**, 2022)**
+### **V1.0.5 (**&#x53;eptember 2&#x36;**, 2022)**
 
 ```
 - Compatible with WooCommerce 6.9.x
@@ -82,7 +82,7 @@ description: Details of the updates
 - [FIX] Fix missing short description on the mobile Variable Product
 ```
 
-### **V1.0.4 (**July 25**, 2022)**
+### **V1.0.4 (**&#x4A;uly 2&#x35;**, 2022)**
 
 ```
 - Compatible with Wordpres 6.0
@@ -90,7 +90,7 @@ description: Details of the updates
 - Compatible with elementor 3.6.x
 ```
 
-### **V1.0.3 (**May 14**, 2022)**
+### **V1.0.3 (**&#x4D;ay 1&#x34;**, 2022)**
 
 ```
 - [ADD NEW] Support search product sku
@@ -98,7 +98,7 @@ description: Details of the updates
 - [ADD NEW] Add new options "Show SKU on AJAX results" in Theme Options/WooCommerce Theme/Search Products
 ```
 
-### **V1.0.2 (**April 13**, 2022)**
+### **V1.0.2 (**&#x41;pril 1&#x33;**, 2022)**
 
 ```
 - Compatible with WooCommerce 6.3.x

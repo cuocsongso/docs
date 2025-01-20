@@ -30,7 +30,7 @@ If you have a website with data available, follow these steps to use the "Maia" 
 
 ![](../.gitbook/assets/import-setup-4.png)
 
-****:tada:**All done. Have fun!**
+:tada:**All done. Have fun!**
 
 ![](../.gitbook/assets/import-setup-5.png)
 

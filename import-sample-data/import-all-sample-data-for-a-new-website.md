@@ -21,15 +21,13 @@ description: Import All Sample Data - for a new website
 
 ![](../.gitbook/assets/import-setup-7.png)
 
-****:tada:**All done. Have fun!**
+:tada:**All done. Have fun!**
 
 ![](../.gitbook/assets/import-setup-5.png)
 
-* [x] <mark style="color:purple;">**Step 5**</mark> - Save information on **** all products (**fix errors not showing Categories, products**)
+* [x] <mark style="color:purple;">**Step 5**</mark> - Save information on all products (**fix errors not showing Categories, products**)
 
-<!---->
-
-* **5.1 "Quick Edit" any product.**
+- **5.1 "Quick Edit" any product.**
 
 ![](../.gitbook/assets/import-data-fix1.png)
 
